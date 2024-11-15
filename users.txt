@@ -1,0 +1,13 @@
+# Example of user account file format for the Python program
+
+# Users who should be admin
+Should be admin:
+user1
+user2
+user3
+
+# Users who should not be admin
+List:
+user4
+user5
+user6
